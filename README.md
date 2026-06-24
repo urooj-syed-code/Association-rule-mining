@@ -191,10 +191,3 @@ These rules should not be interpreted as medical causes. They show associations 
 ```
 
 Note: The dataset may need to be downloaded separately from the UCI Machine Learning Repository if it is not included in this repository.
-
-## References
-
-* UCI Machine Learning Repository. *Diabetes 130-US Hospitals for Years 1999–2008.*
-* Orange Data Mining. *Association Rules Widget Documentation.*
-* Orange Data Mining. *Frequent Itemsets Widget Documentation.*
-* Agrawal, R., Imieliński, T., & Swami, A. *Mining Association Rules Between Sets of Items in Large Databases.*
